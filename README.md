@@ -1,7 +1,7 @@
 # crypto-scraper
 Scraping top crypto's data and creating easy-to-read charts and graphs with additional technical indicators.
 
-![project-crypto-scraper-uml](https://github.com/frieZZerr/crypto-scraper/assets/105242009/5357beda-90d7-4614-be79-85aa42cb1b3d)
+![project-crypto-scraper-uml](https://github.com/frieZZerr/crypto-scraper/blob/master/images/project-crypto-scraper-uml.svg)
 
 ---
 
@@ -37,6 +37,6 @@ Scraping top crypto's data and creating easy-to-read charts and graphs with addi
 
   Example chart `BTC.png`:
   
-  ![BTC](https://github.com/frieZZerr/crypto-scraper/assets/105242009/db54bdab-217a-41ce-b832-dfc3728796f4)
+  ![BTC](https://github.com/frieZZerr/crypto-scraper/blob/master/images/BTC.png)
 
 ## 3. AI model training
